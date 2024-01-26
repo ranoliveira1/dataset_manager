@@ -1,4 +1,4 @@
-# dataset_manager
+# dataset_management
 
 This programm aims to manage data regarding to radiation level of certain locations.
 It allows the user to enter, delete, update an alanyse the data.
